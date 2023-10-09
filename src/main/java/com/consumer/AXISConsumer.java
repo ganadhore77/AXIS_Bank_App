@@ -45,7 +45,7 @@ public class AXISConsumer {
 		System.out.println(updateFirst);
 
 		System.out.println("received to AXIS");
-		return "balance updated in your AXIS bank account : " + final_bal;
+		return "balance updated in AXIS BANK :: account number = "+ accountNumber +" AXIS Balance : " + final_bal;
 	}
 	
 }
